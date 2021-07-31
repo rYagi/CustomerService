@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  test0626
+//  CustomerService
 //
 //  Created by 八木亮輔 on 2021/06/26.
 //

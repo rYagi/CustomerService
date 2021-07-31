@@ -4,21 +4,21 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods-test0626-test0626UITests.xcscheme</key>
+		<key>Pods-CustomerService-CustomerServiceUITests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
-		<key>Pods-test0626.xcscheme</key>
+		<key>Pods-CustomerService.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>Pods-test0626Tests.xcscheme</key>
+		<key>Pods-CustomerServiceTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
